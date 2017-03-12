@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Feb 11, 2017)
 
-### Student Name:  
-(First and Last Name)
+### Student Name:
+Adam Feldhaus
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The work was to create a useable gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
+ https://afeldhaus.github.io/lesson6_javascript3/
+ 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to modify a page content based on external events. 
+2. Successfully used BOm for the first time in a webpage
+3. Proper implementation of document object model. 
